@@ -6,7 +6,7 @@
 * Detailed Jupyter code for Melanoma detections.
 * We have used Convolutional networks using Python and Keras.
 * We can try other advanced modelling techniques and tranfer learning as well and compare the performance of the models.
-* 
+
 
 
 
